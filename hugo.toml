@@ -10,9 +10,7 @@ publishDir = 'public'
   images = ["images/kona-cover.jpg"]
   featured_image = "/images/kona-hero.jpg"
   
-  [params.author]
-    name = "Your Name"
-    email = "your.email@example.com"
+  author = "Your Name"
     
   [params.social]
     github = "kasterling"
