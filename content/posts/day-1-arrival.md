@@ -1,6 +1,6 @@
 ---
 title: "Day 1: Arrival in Kona"
-date: 2025-08-22T10:00:00-10:00
+date: 2025-08-15T10:00:00-10:00
 draft: false
 description: "First impressions and settling into paradise"
 tags: ["travel", "arrival", "kona", "hawaii"]
