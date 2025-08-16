@@ -1,31 +1,14 @@
----
-title: "Day 1: Arrival in Kona"
-date: 2025-08-15T10:00:00-10:00
-draft: false
-description: "First impressions and settling into paradise"
-tags: ["travel", "arrival", "kona", "hawaii"]
-categories: ["Trip Days"]
-images: ["images/day1-cover.jpg"]
----
+Hey fam, just wanted to catch you up on what's going on here in Kona. Today we went snorkeling with the sea turtles, and it was nothing short of awesome! The Honu are absolutely amazing creatures course, but my gosh, what an incredible experience being in the water with these gentle giants. You've got to do this if you ever make it out here - it's truly unforgettable.
 
-## Welcome to Kona!
+**Highlights**
+• Snorkeled with Hawaiian green sea turtles (Honu)
+• Amazing up-close wildlife encounter
+• Respectful wildlife viewing - no touching allowed
 
-*[Replace this template with your Superwisper transcription]*
+**Details**
+• Location: Kona, Hawaii waters
+• Activity: Sea turtle snorkeling
+• Wildlife: Hawaiian green sea turtles (Honu)
 
-Today marks the beginning of my Kona adventure! 
-
-### First Impressions
-
-### Where I'm Staying
-
-### Plans for Tomorrow
-
----
-
-**Photos from today:**
-
-{{< figure src="images/day1-photo1.jpg" alt="Description of photo" >}}
-{{< figure src="images/day1-photo2.jpg" alt="Description of photo" >}}
-
-**Location:** 
-*[Add Google Maps embed here]*
+**Tomorrow's Plans**
+Planning to head up to Mauna Kea to visit the observatory - should be another incredible adventure!
