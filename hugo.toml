@@ -1,28 +1,24 @@
 baseURL = 'https://kasterling.github.io/kona-blog/'
 languageCode = 'en-us'
 title = '🏝️ Kona Adventures'
-theme = 'ananke'
+theme = 'hugo-theme-walden'
 publishDir = 'public'
 
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[pagination]
+  disableAliases = false
+  pagerSize = 12
+  path = 'page'
+
 [params]
+  author = "Keith Sterling"
   description = "Adventures and memories from my trip to Kona, Hawaii 🌺"
-  keywords = ["travel", "hawaii", "kona", "photography", "adventure"]
-  images = ["images/kona-hero.jpg"]
-  featured_image = "/images/kona-hero.jpg"
-  custom_css = ["tropical-theme.css"]
-  background_color_class = "bg-white-sand"
-  text_color = "dark-gray"
-  
-  author = "Your Name"
-    
-  [params.social]
-    github = "kasterling"
-    
-  # Ananke theme specific settings
-  [params.ananke_socials]
-    github = "kasterling"
+  multiLingual = false
     
 [markup]
+  defaultMarkdownHandler = 'goldmark'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
@@ -33,3 +29,9 @@ publishDir = 'public'
 [taxonomies]
   tag = "tags"
   category = "categories"
+  series = "series"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.129.0"
