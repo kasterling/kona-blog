@@ -1,8 +1,11 @@
 ---
 title: "Day 5: Beach Relaxation"
-date: 2025-08-26T19:00:00-10:00
+date: 2024-08-19T09:00:00-10:00
 draft: false
+categories: ["Travel"]
 tags: ["kona", "hawaii", "travel", "day-5", "beach"]
+series: "headline"
+description: "Perfect beach day relaxing on Kona's beautiful shores"
 ---
 
 ## Coming Soon

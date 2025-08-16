@@ -1,8 +1,11 @@
 ---
 title: "Day 3: Coffee Farm Tour"
-date: 2025-08-24T19:00:00-10:00
+date: 2024-08-17T09:00:00-10:00
 draft: false
+categories: ["Travel"]
 tags: ["kona", "hawaii", "travel", "day-3", "coffee"]
+series: "headline"
+description: "Exploring the world-famous Kona coffee plantations"
 ---
 
 ## Coming Soon

@@ -1,8 +1,11 @@
 ---
 title: "Day 6: Departure & Reflections"
-date: 2025-08-27T19:00:00-10:00
+date: 2024-08-20T09:00:00-10:00
 draft: false
+categories: ["Travel"]
 tags: ["kona", "hawaii", "travel", "day-6", "departure"]
+series: "headline"
+description: "Final reflections on an amazing Kona adventure"
 ---
 
 ## Coming Soon
