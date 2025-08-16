@@ -1,18 +1,25 @@
 baseURL = 'https://kasterling.github.io/kona-blog/'
 languageCode = 'en-us'
-title = 'Kona Adventures'
+title = '🏝️ Kona Adventures'
 theme = 'ananke'
 publishDir = 'public'
 
 [params]
-  description = "Adventures and memories from my trip to Kona, Hawaii"
+  description = "Adventures and memories from my trip to Kona, Hawaii 🌺"
   keywords = ["travel", "hawaii", "kona", "photography", "adventure"]
-  images = ["images/kona-cover.jpg"]
+  images = ["images/kona-hero.jpg"]
   featured_image = "/images/kona-hero.jpg"
+  custom_css = ["tropical-theme.css"]
+  background_color_class = "bg-white-sand"
+  text_color = "dark-gray"
   
   author = "Your Name"
     
   [params.social]
+    github = "kasterling"
+    
+  # Ananke theme specific settings
+  [params.ananke_socials]
     github = "kasterling"
     
 [markup]

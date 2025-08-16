@@ -1,0 +1,106 @@
+{{/* Custom tropical theme styles */}}
+<style>
+/* Hawaiian Tropical Theme for Kona Blog */
+:root {
+  --tropical-blue: #0077be;
+  --sunset-orange: #ff6b35;
+  --palm-green: #2d5016;
+  --sand-beige: #f4e4bc;
+  --coral-pink: #ff7f7f;
+  --sky-blue: #87ceeb;
+  --white-sand: #fdfbf7;
+}
+
+/* Tropical Hero Banner */
+.bg-primary-color-dark, .cover {
+  background: linear-gradient(135deg, 
+    rgba(0,119,190,0.9) 0%, 
+    rgba(135,206,235,0.8) 50%,
+    rgba(255,107,53,0.8) 100%) !important;
+  min-height: 300px;
+  position: relative;
+}
+
+.bg-primary-color-dark::before {
+  content: "🌺 🌴 🌊 ☀️";
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 1.8rem;
+  opacity: 0.8;
+  z-index: 1;
+}
+
+/* Site title styling */
+.site-title, .f2 a {
+  color: white !important;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+  font-weight: bold;
+}
+
+/* Navigation */
+.black-70 {
+  color: rgba(255,255,255,0.9) !important;
+}
+
+/* Main content styling */
+body {
+  background-color: var(--white-sand);
+}
+
+article, .post {
+  background: white;
+  border: 2px solid var(--sky-blue);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,119,190,0.1);
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--tropical-blue);
+}
+
+h1 {
+  color: var(--palm-green);
+}
+
+/* Links */
+a {
+  color: var(--tropical-blue);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--sunset-orange);
+}
+
+/* Tags */
+.bg-light-gray {
+  background: var(--coral-pink) !important;
+  color: white !important;
+  border-radius: 20px;
+}
+
+/* Buttons */
+.bg-animate:hover {
+  background: var(--sunset-orange) !important;
+}
+
+/* Footer */
+.bg-black {
+  background: linear-gradient(135deg, var(--palm-green) 0%, var(--tropical-blue) 100%) !important;
+}
+
+/* Add some tropical flair to the page */
+.mw8::before {
+  content: "🌴";
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  font-size: 2rem;
+  opacity: 0.3;
+  z-index: 1000;
+}
+</style>
